@@ -5,6 +5,12 @@ img {
   display: block;
   margin: 0 auto;
 }
+nav,
+figcaption {
+  text-align: center;
+}
+nav,
+a
 body {
   width: 100%;
   height: 100%;
