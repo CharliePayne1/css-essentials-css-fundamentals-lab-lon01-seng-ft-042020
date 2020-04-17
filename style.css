@@ -21,3 +21,8 @@ body {
   height: 100%;
   margin: auto;
 }
+#fearured-property p {
+  width: 800px;
+  margin: 0 auto
+}
+}
